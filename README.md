@@ -47,7 +47,8 @@ Screenshots of the app : -
 
 Unpruned Model
 Conclusion :- Modern CNNs often have large training and inference costs.In thisblog we present a method to prune filters with high similarity coefficient to produce CNNs with reduced computation costs without introducing any loss in the accuracy.It achieves about 79% reduction in parameters for VGG (on CIFAR-10) without significant loss in the original accuracy.We have successfully deployed working model on android device.
-We worked in a team for this results.Team Members :-
+We worked in a team for this results.
+Team Members :-
 Jinu Lilly Joseph
 Jagdeesh K
 Devdatta Khoche
